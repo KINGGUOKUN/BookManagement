@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookManagement.Entity\BookManagement.Entity.csproj" />
+    <ProjectReference Include="..\BookManagement.Infrusture.Contract\BookManagement.Infrusture.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

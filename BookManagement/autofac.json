@@ -1,0 +1,10 @@
+﻿{
+  "modules": [
+    {
+      "type": "BookManagement.Repository.EF.RepositoryModule, BookManagement.Repository.EF"
+    },
+    {
+      "type": "BookManagement.Service.ServiceModule, BookManagement.Service"
+    }
+  ]
+}
